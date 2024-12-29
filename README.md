@@ -6,8 +6,9 @@
 - 💬 Ask me anything about  
 - 📫 How to reach me: arishussain2010@gmail.com
 - ⚡ Fun fact: I'm comming to teen
-### Expert In: Power Bi | SQL | Python | Excel 
-  
+
+### Expert In: Power Bi | SQL | Python | Excel
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Aris10x">
