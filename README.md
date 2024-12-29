@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
   <a href="https://www.linkdin.com/aris hussain/">
-    <img src="https://img.shields.io/badge/linkdin-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Linkdin"/>
+    <img src="https://img.shields.io/badge/linkdin-red?style=for-the-badge&logo=Linkdin&logoColor=blue" alt="Linkdin"/>
   </a>
    <a href="https://www.instagram.com/arishussain_10x">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
