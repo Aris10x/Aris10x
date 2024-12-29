@@ -21,10 +21,10 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=SQL,POWER BI,TABLEAU,EXCEL,PYTHON,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=SQL,POWER BI,TABLEAU,EXCEL,PYTHON)](https://skillicons.dev)
 
 ![Aris10x GitHub stats](https://github-readme-stats.vercel.app/api?username=Aris10x&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aris10x&theme=dark)
 <br>
-⭐️ From [axiftaj](https://github.com/Aris10x)
+⭐️ From [Aris10x](https://github.com/Aris10x)
