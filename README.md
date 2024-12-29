@@ -21,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=SQL,POWER BI,TABLEAU,EXCEL,PYTHON)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ![Aris10x GitHub stats](https://github-readme-stats.vercel.app/api?username=Aris10x&show_icons=true&theme=dark)
 
