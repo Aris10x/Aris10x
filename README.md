@@ -1,6 +1,5 @@
-
- <h1 align="center">Hi 👋, I'm Aris Hussain </h1>
-
+<h1 align="center">Hi 👋, I'm Aris Hussain </h1>
+ <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 - 🔭 I’m currently working on Power BI & Tableau
 - 🌱 I’m currently learning Python ( programming language )
 - 💬 Ask me anything about  
