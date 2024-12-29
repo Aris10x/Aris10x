@@ -1,3 +1,4 @@
+![logo](https://github.com/Aris10x/Aris10x/blob/main/Data%20Analyst%20Linkedin%20Background%20.png?raw=true)
 <h1 align="center">Hi 👋, I'm Aris Hussain </h1>
  <img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 - 🔭 I’m currently working on Power BI & Tableau
