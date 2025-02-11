@@ -14,7 +14,7 @@
   <a href="https://github.com/Aris10x">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkdin.com/aris hussain/">
+  <a href="https://www.linkdin.com/Aris Hussain/">
     <img src="https://img.shields.io/badge/linkdin-red?style=for-the-badge&logo=Linkdin&logoColor=blue" alt="Linkdin"/>
   </a>
    <a href="https://www.instagram.com/data_wizards_">
