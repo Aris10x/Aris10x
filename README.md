@@ -17,7 +17,7 @@
   <a href="https://www.linkdin.com/aris hussain/">
     <img src="https://img.shields.io/badge/linkdin-red?style=for-the-badge&logo=Linkdin&logoColor=blue" alt="Linkdin"/>
   </a>
-   <a href="https://www.instagram.com/arishussain_10x">
+   <a href="https://www.instagram.com/data_wizards_">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </div>
 
@@ -25,7 +25,5 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ![Aris10x GitHub stats](https://github-readme-stats.vercel.app/api?username=Aris10x&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aris10x&theme=dark)
 <br>
 ⭐️ From [Aris10x](https://github.com/Aris10x)
